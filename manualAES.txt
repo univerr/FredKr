@@ -1,0 +1,1 @@
+aescrypt -e -p 123 text.txt text2.txt
